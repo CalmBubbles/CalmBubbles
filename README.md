@@ -1,4 +1,4 @@
-<img width="50%" src="https://calmbubbles.github.io/img/about/calm.png" alt="CalmBubbles">
+<img href="javascript:void(0)" width="50%" src="https://calmbubbles.github.io/img/about/calm.png" alt="CalmBubbles">
 What you looking at?
 
 <div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div>
