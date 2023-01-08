@@ -1,1 +1,3 @@
-Too bad can't embed a site
+<img width="50%" src="https://calmbubbles.github.io/img/about/calm.png" alt="CalmBubbles">
+
+What you looking at?
