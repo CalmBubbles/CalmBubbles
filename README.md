@@ -111,5 +111,5 @@ What you looking at?
 <div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div>
 <div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div><div>ㅤ</div>
 
-<img width="100%" src="https://media.discordapp.net/attachments/784026465464352768/983968897143279656/latest.png">
+<img width="100%" style="image-rendering: pixelated" src="https://static.wikia.nocookie.net/omori/images/b/be/SOMETHING.png">
 There's something behind you...
