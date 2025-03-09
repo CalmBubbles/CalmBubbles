@@ -1,4 +1,4 @@
-Pls check out **[DialogueSystem.js](https://calmbubbles.github.io/works/js-plugins/DialogueSystem/)**<br>
+## Pls check out **[DialogueSystem.js](https://calmbubbles.github.io/works/js-plugins/DialogueSystem/)**<br>
 It adds a div based RPG styled dialogue system.
 
 You can make stuff like this<br>
