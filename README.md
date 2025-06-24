@@ -1,12 +1,10 @@
-> [!IMPORTANT]
-> Currently testing stuff w/ profile README.md lol<br>
-> Some things may look off
-
 ## Pls check out **[DialogueSystem.js](https://calmbubbles.github.io/works/js-plugins/DialogueSystem/)**<br>
 It adds a div based RPG styled dialogue system.
 
 You can make stuff like this<br>
-*(supposed to be embed, but github doesn't have that)*<br>
+*(supposed to be html embed, but github doesn't have that)*<br>
+
+https://github.com/user-attachments/assets/7b9ee331-3ce1-4a7b-853b-80f8026a7e30
 
 It also has text animations!<br>
 <img width="600" src="https://calmbubbles.github.io/img/js-plugins/DialogueSystem/manual-topics/animations.gif"/>
