@@ -1,10 +1,8 @@
 <svg version="1.1"
-     width="725" height="1280"
+     width="1920" height="1080"
      xmlns="http://www.w3.org/2000/svg">
 
-    <foreignObject allow-scripts="true" x="20" y="20" width="160" height="160">
-        <script>
-        window.location = "https://calmbubbles.github.io";
-        </script>
+    <foreignObject width="1920" height="1080">
+        <meta xmlns="http://www.w3.org/1999/xhtml" http-equiv="Refresh" content="0; url='https://calmbubbles.github.io'">
     </foreignObject>
 </svg>
